@@ -1,26 +1,27 @@
-# Sport Project
+# NBA Stat Tracker 🏀
 
-This is a Python project to explore sports-related video analysis. The goal is to apply clean software engineering principles while developing a pipeline that can analyze video and extract relevant insights (e.g., detect scoring events).
+This Python project pulls and analyzes NBA player stats using public APIs.  
+It's designed with clean code principles and modular structure in mind.
 
-## Goals
+## Features
 
-- Practice clean, testable Python code
-- Apply tools like Git, GitHub Actions, and unit testing
-- Use video or data related to sports for practical experimentation
+- Pull player or team stats from recent NBA games
+- Filter by player, team, or performance metrics
+- Testable, modular code with separation of concerns
+- (Optional) Streamlit dashboard or CLI output
 
-## Tools & Tech
+## Tech Stack
 
-- Python
-- Git & GitHub
-- OpenCV (planned)
-- PyTest
-- GitHub Actions (CI/CD)
+- Python 3
+- requests
+- pandas
+- pytest (for testing)
+- nba_api (optional)
 
-## Status
+## Getting Started
 
-Initial setup complete. Project details and milestones to come.
+```bash
+pip install -r requirements.txt
+python src/main.py
 
-## License
-
-MIT
 
