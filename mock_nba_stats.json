@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "player": {
+        "first_name": "Stephen",
+        "last_name": "Curry",
+        "team": "Golden State Warriors"
+      },
+      "pts": 30,
+      "reb": 5,
+      "ast": 7
+    },
+    {
+      "player": {
+        "first_name": "LeBron",
+        "last_name": "James",
+        "team": "Los Angeles Lakers"
+      },
+      "pts": 28,
+      "reb": 8,
+      "ast": 10
+    },
+    {
+      "player": {
+        "first_name": "Luka",
+        "last_name": "Doncic",
+        "team": "Dallas Mavericks"
+      },
+      "pts": 35,
+      "reb": 9,
+      "ast": 11
+    }
+  ]
+}
+
